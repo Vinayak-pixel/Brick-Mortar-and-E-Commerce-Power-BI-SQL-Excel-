@@ -176,7 +176,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/Vinayak-pixel/Brick-Mortar-and-E-Commerce-Power-BI-SQL-Excel-/blob/main/Resources/Overall.gif)
+![Overall Report.gif](https://raw.githubusercontent.com/Vinayak-pixel/Brick-Mortar-and-E-Commerce-Power-BI-SQL-Excel-/main/Resources/Overall.gif)
 
 ## Info Page
 

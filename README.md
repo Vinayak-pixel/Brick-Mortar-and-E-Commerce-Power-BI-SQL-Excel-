@@ -1,4 +1,4 @@
-# Brick & Mortar and E-Commerce | Power BI, SQL, Excel |
+# AtliQ Hardware Analytics: Data-Driven Insights for Brick & Mortar and E-Commerce | Power BI, SQL, Excel |
 
 ## Project Overview
 

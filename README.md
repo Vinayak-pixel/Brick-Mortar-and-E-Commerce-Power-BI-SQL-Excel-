@@ -27,8 +27,6 @@ I worked on this project by following the Codebasics SQL Course
 - Using KPI indicators
 - Conditional formatting the values in visuals using icons or background color
 - Data validation techniques
-- PowerBi services
-- Publishing reports to PowerBi services
 - Setting up personal gateway to set up the auto refresh of data
 - PowerBi App creation
 

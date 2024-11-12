@@ -13,7 +13,7 @@ I worked on this project by following the Codebasics SQL Course
 - Excel
 - DAX language
 - DAX studio (for optimizing the report)
-- Project charter file
+
 
 ## PowerBI techniques Learnt
 

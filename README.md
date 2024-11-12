@@ -205,7 +205,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ![Products](https://github.com/Vinayak-pixel/Brick-Mortar-and-E-Commerce-Power-BI-SQL-Excel-/blob/main/Resources/Products%20View.gif)
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report](https://drive.google.com/file/d/1B1fBqfKq2WVZk89nD4TQr-eFf9zLFB-y/view?usp=drive_link)
 
 
 ## Project Outcome

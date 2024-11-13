@@ -162,7 +162,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Finance View
 
-![Finace.gif](https://github.com/Vinayak-pixel/Brick-Mortar-and-E-Commerce-Power-BI-SQL-Excel-/blob/main/Resources/Finace.gif)
+![Finace.gif](https://github.com/Vinayak-pixel/Brick-Mortar-and-E-Commerce-Power-BI-SQL-Excel-/blob/main/Resources/Finance.gif)
 ## Sales View
 
 ![Sales.gif](https://github.com/Vinayak-pixel/Brick-Mortar-and-E-Commerce-Power-BI-SQL-Excel-/blob/main/Resources/Sales.gif)
